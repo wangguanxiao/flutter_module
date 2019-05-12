@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         // counter didn't reset back to zero; the application is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: '王冠晓 Home Page'),
+      home: MyHomePage(title: '中华人民共和国'),
     );
   }
 }
